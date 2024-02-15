@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\D Tech Computers\\source\\repos\\InternKYC\\wwwroot\\Upload\\e1.PNG",
+      "PackagePath": "staticwebassets\\Upload\\e1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\D Tech Computers\\source\\repos\\InternKYC\\wwwroot\\Uploads\\044d2a3f-dc44-40cc-93f5-6b51d8142f75_e3.PNG",
+      "PackagePath": "staticwebassets\\Uploads\\044d2a3f-dc44-40cc-93f5-6b51d8142f75_e3.PNG"
+    },
+    {
+      "Id": "C:\\Users\\D Tech Computers\\source\\repos\\InternKYC\\wwwroot\\Uploads\\0af396e3-84f2-4f8d-8504-43d57bdd3021_e2.PNG",
+      "PackagePath": "staticwebassets\\Uploads\\0af396e3-84f2-4f8d-8504-43d57bdd3021_e2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\D Tech Computers\\source\\repos\\InternKYC\\wwwroot\\Uploads\\17f4cb36-159a-4bef-b879-fd04b0b2364a_e2.PNG",
+      "PackagePath": "staticwebassets\\Uploads\\17f4cb36-159a-4bef-b879-fd04b0b2364a_e2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\D Tech Computers\\source\\repos\\InternKYC\\wwwroot\\Uploads\\1f7a47b0-ab0a-44f6-99e6-5318ef88bfe4_e2.PNG",
+      "PackagePath": "staticwebassets\\Uploads\\1f7a47b0-ab0a-44f6-99e6-5318ef88bfe4_e2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\D Tech Computers\\source\\repos\\InternKYC\\wwwroot\\Uploads\\26a5e565-aaa2-4db3-ac41-ff6225bbd835_e1.PNG",
+      "PackagePath": "staticwebassets\\Uploads\\26a5e565-aaa2-4db3-ac41-ff6225bbd835_e1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\D Tech Computers\\source\\repos\\InternKYC\\wwwroot\\Uploads\\2b48a9eb-20eb-4760-aab1-a2fb51e91877_e2.PNG",
+      "PackagePath": "staticwebassets\\Uploads\\2b48a9eb-20eb-4760-aab1-a2fb51e91877_e2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\D Tech Computers\\source\\repos\\InternKYC\\wwwroot\\Uploads\\31cf09e1-3517-4921-99d5-e5c252b8cc1d_e1.PNG",
+      "PackagePath": "staticwebassets\\Uploads\\31cf09e1-3517-4921-99d5-e5c252b8cc1d_e1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\D Tech Computers\\source\\repos\\InternKYC\\wwwroot\\Uploads\\332b6c0d-250c-4f66-9610-e2bbdc99029a_e1.PNG",
+      "PackagePath": "staticwebassets\\Uploads\\332b6c0d-250c-4f66-9610-e2bbdc99029a_e1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\D Tech Computers\\source\\repos\\InternKYC\\wwwroot\\Uploads\\58b83321-67a4-4368-bd8c-d7b445eb62c4_e3.PNG",
+      "PackagePath": "staticwebassets\\Uploads\\58b83321-67a4-4368-bd8c-d7b445eb62c4_e3.PNG"
+    },
+    {
+      "Id": "C:\\Users\\D Tech Computers\\source\\repos\\InternKYC\\wwwroot\\Uploads\\82776dd5-0f74-4dfc-b4b8-fa6ee5a933af_e3.PNG",
+      "PackagePath": "staticwebassets\\Uploads\\82776dd5-0f74-4dfc-b4b8-fa6ee5a933af_e3.PNG"
+    },
+    {
+      "Id": "C:\\Users\\D Tech Computers\\source\\repos\\InternKYC\\wwwroot\\Uploads\\99694917-910f-468a-b336-734cec136804_e1.PNG",
+      "PackagePath": "staticwebassets\\Uploads\\99694917-910f-468a-b336-734cec136804_e1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\D Tech Computers\\source\\repos\\InternKYC\\wwwroot\\Uploads\\b73b1bf7-4ba1-4607-b7ba-fb819d047738_e3.PNG",
+      "PackagePath": "staticwebassets\\Uploads\\b73b1bf7-4ba1-4607-b7ba-fb819d047738_e3.PNG"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.InternKYC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.InternKYC.props",
+      "PackagePath": "build\\InternKYC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.InternKYC.props",
+      "PackagePath": "buildMultiTargeting\\InternKYC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.InternKYC.props",
+      "PackagePath": "buildTransitive\\InternKYC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
